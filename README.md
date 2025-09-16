@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AryanParikh44</h1>
-<h3 align="center">I am BA student</h3>
+<h3 align="center">I am BCA student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanparikh44&label=Profile%20views&color=0e75b6&style=flat" alt="aryanparikh44" /> </p>
 
